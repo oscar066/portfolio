@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="space-y-12">
       <section className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Oscar Karuga</h1>
+        <h1 className="text-4xl font-bold mb-4">Your Name</h1>
         <h2 className="text-2xl mb-4">Software Developer | Data Scientist | Machine Learning Engineer</h2>
         <p className="text-xl mb-6">Turning data into actionable insights and building innovative solutions</p>
         <Link href="/projects" className="bg-blue-500 text-white py-2 px-6 rounded-full text-lg font-semibold hover:bg-blue-600 transition duration-300">
@@ -15,10 +15,10 @@ export default function Home() {
       <section>
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
         <p className="text-lg mb-4">
-          I'm a passionate Software Developer, Data Scientist, and Machine Learning Engineer with X years of experience in developing cutting-edge solutions. My expertise lies in leveraging data-driven approaches to solve complex problems and create impactful applications.
+          I&apos;m a passionate Software Developer, Data Scientist, and Machine Learning Engineer with X years of experience in developing cutting-edge solutions. My expertise lies in leveraging data-driven approaches to solve complex problems and create impactful applications.
         </p>
         <p className="text-lg">
-          With a strong foundation in computer science and statistics, I excel at bridging the gap between theoretical concepts and practical implementations. I'm constantly learning and adapting to new technologies to stay at the forefront of the rapidly evolving tech landscape.
+          With a strong foundation in computer science and statistics, I excel at bridging the gap between theoretical concepts and practical implementations. I&apos;m constantly learning and adapting to new technologies to stay at the forefront of the rapidly evolving tech landscape.
         </p>
       </section>
 
@@ -64,7 +64,7 @@ export default function Home() {
 
       <section>
         <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
-        <p className="mb-4">I'm always open to new opportunities and collaborations. Feel free to reach out!</p>
+        <p className="mb-4">I&apos;m always open to new opportunities and collaborations. Feel free to reach out!</p>
         <a href="mailto:your.email@example.com" className="bg-blue-500 text-white py-2 px-6 rounded-full text-lg font-semibold hover:bg-blue-600 transition duration-300">
           Get in Touch
         </a>
