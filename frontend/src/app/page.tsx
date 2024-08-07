@@ -15,10 +15,10 @@ export default function Home() {
       <section>
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
         <p className="text-lg mb-4">
-          I&apos;m a passionate Software Developer, Data Scientist, and Machine Learning Engineer with X years of experience in developing cutting-edge solutions. My expertise lies in leveraging data-driven approaches to solve complex problems and create impactful applications.
+          Im a passionate Software Developer, Data Scientist, and Machine Learning Engineer with X years of experience in developing cutting-edge solutions. My expertise lies in leveraging data-driven approaches to solve complex problems and create impactful applications.
         </p>
         <p className="text-lg">
-          With a strong foundation in computer science and statistics, I excel at bridging the gap between theoretical concepts and practical implementations. I&apos;m constantly learning and adapting to new technologies to stay at the forefront of the rapidly evolving tech landscape.
+          With a strong foundation in computer science and statistics, I excel at bridging the gap between theoretical concepts and practical implementations. Im constantly learning and adapting to new technologies to stay at the forefront of the rapidly evolving tech landscape.
         </p>
       </section>
 
@@ -64,8 +64,8 @@ export default function Home() {
 
       <section>
         <h2 className="text-3xl font-bold mb-4">Contact Me</h2>
-        <p className="mb-4">I&apos;m always open to new opportunities and collaborations. Feel free to reach out!</p>
-        <a href="mailto:your.email@example.com" className="bg-blue-500 text-white py-2 px-6 rounded-full text-lg font-semibold hover:bg-blue-600 transition duration-300">
+        <p className="mb-4">Im always open to new opportunities and collaborations. Feel free to reach out!</p>
+        <a href="oscarkaruga1@gmail.com" className="bg-blue-500 text-white py-2 px-6 rounded-full text-lg font-semibold hover:bg-blue-600 transition duration-300">
           Get in Touch
         </a>
       </section>
